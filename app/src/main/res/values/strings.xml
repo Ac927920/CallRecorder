@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Call Recorder</string>
+    <string name="this_app_developed_by_abhishek_chandra">This App Developed by Abhishek Chandra</string>
+    <string name="start">Start</string>
+</resources>
